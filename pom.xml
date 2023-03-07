@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>org.netology</groupId>
+	<groupId>org.neology</groupId>
 	<artifactId>plaindoll</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.2</version>
@@ -24,6 +24,13 @@
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+		  	<groupId>neology</groupId>
+		  	<artifactId>java</artifactId>
+		  	<version>0.02</version>
+		  	<classifier>distrib</classifier>
+		  	<type>tar.gz</type>
 		</dependency>
 	</dependencies>
 
