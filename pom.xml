@@ -29,7 +29,6 @@
 		  	<groupId>netology</groupId>
 		  	<artifactId>plaindoll</artifactId>
 		  	<version>0.0.2</version>
-		  	<classifier>distrib</classifier>
 		  	<type>tar.gz</type>
 		</dependency>
 	</dependencies>
