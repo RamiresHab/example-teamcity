@@ -28,8 +28,8 @@
 		<dependency>
 			<groupId>org.netology</groupId>
 			<artifactId>plaindoll</artifactId>
-			<packaging>jar</packaging>
 			<version>0.0.2</version>
+			<type>jar</type>
 		</dependency>
 	</dependencies>
 
