@@ -27,7 +27,7 @@
 		</dependency>
 		<dependency>
 		  	<groupId>netology</groupId>
-		  	<artifactId>java</artifactId>
+		  	<artifactId>plaindoll</artifactId>
 		  	<version>0.0.2</version>
 		  	<classifier>distrib</classifier>
 		  	<type>tar.gz</type>
