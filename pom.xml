@@ -26,9 +26,10 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-		  	<groupId>netology</groupId>
-		  	<artifactId>plaindoll</artifactId>
-		  	<version>0.0.2</version>
+			<groupId>org.netology</groupId>
+			<artifactId>plaindoll</artifactId>
+			<packaging>jar</packaging>
+			<version>0.0.2</version>
 		</dependency>
 	</dependencies>
 
